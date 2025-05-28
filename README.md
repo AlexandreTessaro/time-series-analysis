@@ -80,23 +80,18 @@ The analysis revealed important patterns in household debt behavior in Brazil. T
 2. Ensure Python 3 and required libraries (`pandas`, `matplotlib`) are installed.
 3. Place the datasets in the `data/` folder or update the paths in the scripts accordingly.
 4. Run the scripts:  
-   ```bash
-   python exercise_01_trend_income_commitment.py
-   python exercise_02_family_debt_trends.py
-View the generated plots for visual trend analysis.
+    python exercise_01_trend_income_commitment.py
+    python exercise_02_family_debt_trends.py
+5. View the generated plots for visual trend analysis.
 
-8. References
-Banco Central do Brasil - Dados Abertos: https://dadosabertos.bcb.gov.br/
+## 8. References
+- Banco Central do Brasil - Dados Abertos: https://dadosabertos.bcb.gov.br/
+- Python Documentation: https://docs.python.org/3/
+- pandas Documentation: https://pandas.pydata.org/
+- matplotlib Documentation: https://matplotlib.org/
 
-Python Documentation: https://docs.python.org/3/
-
-pandas Documentation: https://pandas.pydata.org/
-
-matplotlib Documentation: https://matplotlib.org/
-
-9. Author
-Alexandre Tessaro Vieira
-Engenharia de Software
-https://www.linkedin.com/in/alexandre-tessaro-4a4436235/
+## 9. Author
+- Alexandre Tessaro Vieira
+- https://www.linkedin.com/in/alexandre-tessaro-4a4436235/
 
 ---
