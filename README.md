@@ -85,6 +85,12 @@ The analysis revealed important patterns in household debt behavior in Brazil. T
     > python exercise_02_family_debt_trends.py
 5. View the generated plots for visual trend analysis.
 
+### 📈 Exercise 1 – Income Commitment Trend
+![Exercise 1 Plot](images/exercise_01.png)
+
+### 📉 Exercise 2 – Family Debt Indicators Trends
+![Exercise 2 Plot](images/exercise_02.png)
+
 ## 8. References
 - Banco Central do Brasil - Dados Abertos: https://dadosabertos.bcb.gov.br/
 - Python Documentation: https://docs.python.org/3/
