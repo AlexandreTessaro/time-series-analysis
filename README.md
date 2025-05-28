@@ -61,19 +61,16 @@ The analysis revealed important patterns in household debt behavior in Brazil. T
 
 ## 6. Repository Structure
 
-.
-├── exercise_01_trend_income_commitment.py # Code for Exercise 1
-├── exercise_02_family_debt_trends.py # Code for Exercise 2
-├── data/ # Folder containing CSV datasets
-│ ├── bcdata.sgs.29035.csv
-│ ├── bcdata.sgs.22701.csv
-│ ├── bcdata.sgs.22702.csv
-│ └── bcdata.sgs.22703.csv
-└── README.md # This file
-
-yaml
-Copy
-Edit
+exercise_01_trend_income_commitment.py        # Código do Exercício 1
+├── bcdata.sgs.29035.csv
+└── trend_analysis_income_commitment.py
+exercise_02_family_debt_trends.py             # Código do Exercício 2
+├── bcb_indicators_analysis.py
+├── bcdata.sgs.22701.csv
+├── bcdata.sgs.22702.csv
+└── bcdata.sgs.22703.csv
+README.md                                     # Este arquivo
+LICENSE                                      # Licença do projeto
 
 ---
 
@@ -98,12 +95,8 @@ pandas Documentation: https://pandas.pydata.org/
 matplotlib Documentation: https://matplotlib.org/
 
 9. Author
-Alexandre Tessaro
+Alexandre Tessaro Vieira
 Engenharia de Software
-[Optional: contato/email/linkedin/github]
-
-yaml
-Copy
-Edit
+https://www.linkedin.com/in/alexandre-tessaro-4a4436235/
 
 ---
