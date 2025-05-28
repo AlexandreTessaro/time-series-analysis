@@ -91,6 +91,42 @@ The analysis revealed important patterns in household debt behavior in Brazil. T
 ### 📉 Exercise 2 – Family Debt Indicators Trends
 ![Exercise 2 Plot](images/exercise_02.png)
 
+### 📌 1) Selected Dataset: **Household Income Commitment to Debt (Series 29035)**
+
+**Analysis:**  
+The series shows a **growing trend** over the years. After small fluctuations between 2015 and 2020, we observe a steady and more pronounced increase starting in 2021, indicating that families are allocating a growing share of their income to debt payments.
+
+**Conclusion:**  
+➡️ **Increasing** trend in household income commitment to debt in Brazil.
+
+---
+
+### 📌 2) Datasets Selected from the Central Bank (https://dadosabertos.bcb.gov.br/dataset/)
+
+#### a) **Series 22701 – Percentage of Indebted Families**
+
+**Analysis:**  
+Despite some noise in the early years, there is a **declining trend** from 2022 onwards, with consistent decreases in the percentage of indebted families.
+
+**Conclusion:**  
+➡️ **Decreasing** trend in the percentage of indebted families.
+
+#### b) **Series 22702 – Percentage of Families with Overdue Debt**
+
+**Analysis:**  
+The series shows a **slightly increasing trend**, especially between 2020 and 2024. The 12-month moving average confirms this gradual upward movement.
+
+**Conclusion:**  
+➡️ **Slightly increasing** trend in the percentage of families with overdue debt.
+
+#### c) **Series 22703 – Percentage of Families Unable to Pay Debts**
+
+**Analysis:**  
+There is a clear **upward trend** since 2007, with an acceleration in recent years. The share of families unable to pay their debts has grown significantly.
+
+**Conclusion:**  
+➡️ **Increasing** trend in the percentage of families unable to pay their debts.
+
 ## 8. References
 - Banco Central do Brasil - Dados Abertos: https://dadosabertos.bcb.gov.br/
 - Python Documentation: https://docs.python.org/3/
