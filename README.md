@@ -81,6 +81,7 @@ The analysis revealed important patterns in household debt behavior in Brazil. T
 3. Place the datasets in the `data/` folder or update the paths in the scripts accordingly.
 4. Run the scripts:  
     > python exercise_01_trend_income_commitment.py
+    
     > python exercise_02_family_debt_trends.py
 5. View the generated plots for visual trend analysis.
 
